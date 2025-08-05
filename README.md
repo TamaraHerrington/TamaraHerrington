@@ -1,10 +1,10 @@
  <h1>👋 Hi, I’m @TCHerrington </h1>
 
-- 👀 I’m interested in software engineering, cybersecurity, and zombie movies.
-- 🌱 I’m currently learning C# and all things .net!
+- 👀 I’m interested in cloud, cybersecurity, and zombie movies.
+- 🌱 I’m currently messing around with strudel!
 - 🌱 Aspiring to learn: more green software stuff, improve back-end dev skills, threat hunting/ethical hacking!
 
-- ✨Current personal project: C# Tea Picker App - an app to help me finally pick which tea I want to drink!
+- ✨Current personal project: AWS sysops exam
 
 <!---
 TCHerrington/TCHerrington is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
