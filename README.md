@@ -1,4 +1,4 @@
-  <h1>👋 Hi, welcome to my personal project account</h1>
+  <h1>👋 Hi, welcome to my personal project account 👋</h1>
  
 
 <p>I'm <strong>very</strong> bad at keeping regular updates but I'm aiming to finish the MVP for at least one hobby project in 2026!</p>
