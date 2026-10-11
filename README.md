@@ -10,4 +10,6 @@ You can click the Preview link to take a look at your changes.
 
 
 Add bit on languages prefered and learning
+
+Can the backgroubd colour change on this?
 --->
