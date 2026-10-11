@@ -9,6 +9,12 @@ TCHerrington/TCHerrington is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 
 
+to do:
+- add icons on languages used in repos
+- add aws my cloud certs? or is that too cringe? do i want this to be a personal repo or professional repo?
+- table with projects, description, and tech stack!
+
+
 Add bit on languages prefered and learning
 
 Can the backgroubd colour change on this?
