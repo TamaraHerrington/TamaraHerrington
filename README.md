@@ -3,7 +3,7 @@
 
 <p>I'm <strong>very</strong> bad at keeping regular updates but I'm aiming to finish the MVP for at least one hobby project in 2026!</p>
 
-✨Current personal project: Improving my powershell skills 
+✨Current personal project: Improving my powershell skills <br>
 ✨100% free range organic human coding, currently no AI code committed to my personal public repos.
 
 <!---
